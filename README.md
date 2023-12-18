@@ -14,13 +14,13 @@ Language used: HTML, CSS, JS
 
 Details of Quiz App
 
-Type of question: MCQ having 4 options
-Out of 4 option one option is correct.
-If selected option is correct the score increases by one.
-No negative marking for wrong quextion.
-Answer to all questions.
-Result will be shown just after the completion of quiz.
-Result will show: No of correct answers:  and percentage of correct answers :
+(1) Type of question: MCQ having 4 options
+(2) Out of 4 option one option is correct.
+(3) If selected option is correct the score increases by one.
+(4) No negative marking for wrong quextion.
+(5) Answer to all questions.
+(6) Result will be shown just after the completion of quiz.
+(7) Result will show: No of correct answers:  and percentage of correct answers :
 
 ====================================================
 
